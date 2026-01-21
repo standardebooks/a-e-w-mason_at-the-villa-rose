@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-GB">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/a-e-w-mason/at-the-villa-rose</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-01-21T16:43:36Z</dc:date>
+		<meta property="dcterms:modified">2026-01-21T16:43:36Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,17 +36,21 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85037260</meta>
 		<meta property="se:subject">Mystery</meta>
-		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
-		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta id="collection-1" property="belongs-to-collection">Inspector Hanaud</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
+		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">A wealthy widow is murdered at her villa in Aix-les-Bains, and her companion is missing.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;When a wealthy widow is found murdered at the Villa Rose in Aix-les-Bains, and her young companion Celia Harland is missing along with valuable jewels, suspicion falls on the girl. The famous French detective Hanaud is called in to solve the mystery, which involves a séance, a missing chauffeur, and a web of deceit.&lt;/p&gt;
+			&lt;p&gt;When the wealthy widow Madame Dauvray is found murdered at the Villa Rose in Aix-les-Bains, suspician falls on her young companion Celia Harland, who has gone missing—along Dauvray’s valuable jewels. The famous French detective &lt;a href="https://standardebooks.org/collections/inspector-hanaud"&gt;Inspector Hanaud&lt;/a&gt; is called in to solve the mystery, which involves a séance, a missing chauffeur, and a web of deceit.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/a-e-w-mason"&gt;A. E. W. Mason&lt;/a&gt; was inspired to write this story after his own stay at an inn near London, where he saw the names of two victims of a famous murder scratched into a windowpane. Inspired by that case, he incorporated other small details from other murder cases into this narrative.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4745</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000245776</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">72604</meta>
+		<meta property="se:reading-ease.flesch">76.11</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/At_the_Villa_Rose_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/a-e-w-mason_at-the-villa-rose</meta>
 		<dc:creator id="author">A. E. W. Mason</dc:creator>
@@ -77,6 +81,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
