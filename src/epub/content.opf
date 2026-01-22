@@ -43,7 +43,7 @@
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">A wealthy widow is murdered at her villa in Aix-les-Bains, and her companion is missing.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;When the wealthy widow Madame Dauvray is found murdered at the Villa Rose in Aix-les-Bains, suspician falls on her young companion Celia Harland, who has gone missing—along Dauvray’s valuable jewels. The famous French detective &lt;a href="https://standardebooks.org/collections/inspector-hanaud"&gt;Inspector Hanaud&lt;/a&gt; is called in to solve the mystery, which involves a séance, a missing chauffeur, and a web of deceit.&lt;/p&gt;
+			&lt;p&gt;When the wealthy widow Madame Dauvray is found murdered at the Villa Rose in Aix-les-Bains, suspicion falls on her young companion Celia Harland, who has gone missing—along with Dauvray’s valuable jewels. The famous French detective &lt;a href="https://standardebooks.org/collections/inspector-hanaud"&gt;Inspector Hanaud&lt;/a&gt; is called in to solve the mystery, which involves a séance, a missing chauffeur, and a web of deceit.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/a-e-w-mason"&gt;A. E. W. Mason&lt;/a&gt; was inspired to write this story after his own stay at an inn near London, where he saw the names of two victims of a famous murder scratched into a windowpane. Inspired by that case, he incorporated other small details from other murder cases into this narrative.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
