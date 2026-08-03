@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-GB">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-GB">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/a-e-w-mason/at-the-villa-rose</dc:identifier>
 		<dc:date>2026-01-21T16:43:36Z</dc:date>
@@ -42,11 +42,11 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">A wealthy widow is murdered at her villa in Aix-les-Bains, and her companion is missing.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A wealthy widow is murdered at her villa in Aix-les-Bains, and her companion is missing.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;When the wealthy widow Madame Dauvray is found murdered at the Villa Rose in Aix-les-Bains, suspicion falls on her young companion Celia Harland, who has gone missing—along with Dauvray’s valuable jewels. The famous French detective &lt;a href="https://standardebooks.org/collections/inspector-hanaud"&gt;Inspector Hanaud&lt;/a&gt; is called in to solve the mystery, which involves a séance, a missing chauffeur, and a web of deceit.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/a-e-w-mason"&gt;A. E. W. Mason&lt;/a&gt; was inspired to write this story after his own stay at an inn near London, where he saw the names of two victims of a famous murder scratched into a windowpane. Inspired by that case, he incorporated other small details from other murder cases into this narrative.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4745</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000245776</dc:source>
